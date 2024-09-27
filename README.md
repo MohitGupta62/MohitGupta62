@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohit Gupta</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
+
+<p align="left"> <img src="MohitGupta62.png" alt="MohitGupta62" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohitGupta62&label=Profile%20views&color=0e75b6&style=flat" alt="MohitGupta62" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohitGupta62" alt="MohitGupta62" /></a> </p>
-
-
-<p align="left"> <img src="MohitGupta62.png" alt="MohitGupta62" /> </p>
 
 - 🔭 I’m currently working on **E-commerce**
 
